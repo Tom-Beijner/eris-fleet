@@ -3,9 +3,9 @@
 
 
 "@types/node@^14.0.1":
-  version "14.0.12"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.12.tgz#9c1d8ffb8084e8936603a6122a7649e40e68e04b"
-  integrity sha512-/sjzehvjkkpvLpYtN6/2dv5kg41otMGuHQUt9T2aiAuIfleCQRQHXXzF1eAw/qkZTj5Kcf4JSTf7EIizHocy6Q==
+  version "14.14.39"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.39.tgz#9ef394d4eb52953d2890e4839393c309aa25d2d1"
+  integrity sha512-Qipn7rfTxGEDqZiezH+wxqWYR8vcXq5LRpZrETD19Gs4o8LbklbmqotSUsMU+s5G3PJwMRDfNEYoxrcBwIxOuw==
 
 dotenv@^8.2.0:
   version "8.2.0"
